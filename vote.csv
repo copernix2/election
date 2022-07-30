@@ -1,4 +1,4 @@
-"","num_bureau","num_bureau_vote","inscrit","votant","bul_nul","suffrage","bby","yaw","wallu","bunt","aar","bgg","mpr","naw","@_id","@_uuid","@_submission_time","@_index","@_parent_table_name","index","@_tags","@_notes","@_version","@_duration","@_submitted_by","@_xform_id","region","departement","centre_vote","reportaire"
-"1","1",NA,6000,5500,20,5480,1500,2000,1000,500,300,20,20,20,NA,"",NA,1,"data",1,"","","","","","","10","103","MOussa DIOUMBOUYA","OUMAR DIOP"
-"2","1",2,8000,7000,200,6800,2000,1200,2000,200,200,200,200,200,NA,"",NA,2,"data",2,"","","","","","","01","014","XXX","Oumar DIOP"
-"3","2",3,2009,2000,1,2000,100,100,1000,20,20,20,20,20,NA,"",NA,3,"data",2,"","","","","","","01","014","XXX","Oumar DIOP"
+"","num_bureau","num_bureau_vote","inscrit","votant","bul_nul","suffrage","bby","yaw","wallu","bunt","aar","bgg","mpr","naw","@_id","@_uuid","@_submission_time","@_index","@_parent_table_name","index","@_tags","@_notes","@_version","@_duration","@_submitted_by","@_xform_id","region","departement","centre_vote","reportaire","bureau_reel"
+"1","1",NA,6000,5500,20,5480,1500,2000,1000,500,300,20,20,20,NA,"",NA,1,"data",1,"","","","","","","10","103","MOussa DIOUMBOUYA","OUMAR DIOP","5"
+"2","1",2,8000,7000,200,6800,2000,1200,2000,200,200,200,200,200,NA,"",NA,2,"data",2,"","","","","","","01","014","XXX","Oumar DIOP","2"
+"3","2",3,2009,2000,1,2000,100,100,1000,20,20,20,20,20,NA,"",NA,3,"data",2,"","","","","","","01","014","XXX","Oumar DIOP","2"
